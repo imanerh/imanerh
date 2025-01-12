@@ -1,5 +1,5 @@
 # Hi, I'm Imane Rahali 👋
-### A Passionate Computer Science Student
+### A Passionate Computer Science Student & Lifelong Learner
 
 ## 🌟 About Me  
 I'm a **Computer Science student** with a diverse skill set spanning **software development**, **data science**, and **IoT systems**. I thrive on learning and applying new technologies to solve real-world problems.  
