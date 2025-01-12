@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Imane Rahali 👋</h1>
-<h3 align="center">A Passionate Computer Science Student</h3>
+# Hi, I'm Imane Rahali 👋
+### A Passionate Computer Science Student
 
 ## 🌟 About Me  
 I'm a **Computer Science student** with a diverse skill set spanning **software development**, **data science**, and **IoT systems**. I thrive on learning and applying new technologies to solve real-world problems.  
